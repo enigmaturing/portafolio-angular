@@ -21,8 +21,6 @@ const app_routes: Routes = [
         RouterModule
     ]
 })
-
-@NgModule({})
 export class AppRoutingModule {
 
 }
